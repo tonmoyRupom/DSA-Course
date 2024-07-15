@@ -1,0 +1,1 @@
+{"name":"Local: postfixcalculation","url":"/media/tonmoy/New Volume/CSE Resources/DSA Course/postfixcalculation.cpp","tests":[{"id":1711734725126,"input":"168*+","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/tonmoy/New Volume/CSE Resources/DSA Course/postfixcalculation.cpp","group":"local","local":true}
